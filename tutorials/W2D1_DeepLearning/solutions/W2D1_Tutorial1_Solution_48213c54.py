@@ -9,8 +9,8 @@ class DeepNetReLU(nn.Module):
 
   def forward(self, r):
 
-    h = torch.relu(self.in_layer(r))
-    y = self.out_layer(h)
+    h = torch.relu(self.in_layer(r)) # h is size (n_inputs, n_hidden)
+    y = self.out_layer(h) # y is size (n_inputs, 1)
 
     return y
 
@@ -19,15 +19,14 @@ class DeepNetReLU(nn.Module):
 np.random.seed(1)
 torch.manual_seed(1)
 
-# Get neural responses (r) to and orientation (ori) to one stimulus in dataset
-r, ori = get_data(1, resp_train, stimuli_train)
+# Initialize a deep network with M=200 hidden units
+net = DeepNetReLU(n_neurons, 200)
 
-# Initialize deep network with M=10 hidden units and uncomment lines below
-net = DeepNetReLU(n_neurons, 10)
+# Get neural responses (r) to and orientation (ori) to one stimulus in dataset
+r, ori = get_data(1, resp_train, stimuli_train)  # using helper function get_data
 
 # Decode orientation from these neural responses using initialized network
-# net(r) is equivalent to net.forward(r)
-out = net(r)
+out = net(r)  # compute output from network, equivalent to net.forward(r)
 
 print('decoded orientation: %.2f degrees' % out)
 print('true orientation: %.2f degrees' % ori)
