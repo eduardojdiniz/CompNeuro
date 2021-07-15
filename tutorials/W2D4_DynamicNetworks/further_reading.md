@@ -1,5 +1,48 @@
 # Suggested further readings
 
+### Intro
+
+#### Fully connected networks, synchronous vs asynchronous states
+
+Abbott and van Vreeswijk, 1993
+Wang and Buzsaki 1998,
+Whittington et al, 2000;
+Brunel and Hansel, 2006.
+
+#### Randomly connected networks, balanced states
+van Vreeswjik and Sompolinksky 1996
+van Vreeswjik and Sompolinksky 1998
+Brunel and Hakim, 1999
+Brunel 2000
+Vogels et al 2005,
+Renart et al 2010
+
+#### Data show on slide 'balanced state vs cortex'
+Haider et al, 2013
+Maimon and Assad, 2009
+Hromadka et al, 2008
+
+#### Attractor dynamics
+Hopfield, 1982
+Tsodyks and Feigel'man, 1998
+Miyashita, 1988
+Amit and Brunel, 1997
+Wang, 2001
+Mongillo et al, 2008
+Zenke et al, 2015
+Inagaki et al, 2019
+
+#### Sequences
+- Abeles, 1988
+- Diesmann et al, 1999
+- Pastalkova et al, 2008
+- Fiete et al, 2010,
+- Hahnloser et al, 2012
+
+#### From spikes to rates
+- Ermentrout, 1994
+- Shriki et al, 2003
+- Ostojic and Brunel, 2011
 
 ### Phase plane analysis
 
