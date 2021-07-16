@@ -4,4 +4,6 @@
 _build
 _toc.yml
 CichyWanderers/data/
+CichyWanderers/model/
+CichyWanderers/tmp/
 CichyWanderers/content/
