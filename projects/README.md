@@ -35,7 +35,7 @@ Daily project time is either:
  - July 6, any time for Slots 1,3,5
  - July 7, right after the projects time for Slots 2,4 (but before you start coursework on this day)
 
- Here is a table summary of the schedule:
+ Here is a table summary of the schedule: 
 
 | date | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -68,10 +68,10 @@ Below we link all the relevant project materials.These are available either on g
 
 * project block 2:  by end of block, please submit a project proposal via this [Airtable link](https://airtable.com/shrZWimDB3YddpXDu). We will use this immediately to match your group with a mentor and a project TA.  
 * course day 10:  by end of day, please submit your abstract via this [Airtable link](https://airtable.com/shrITSzD4fgFCGiWI).  
-* project block 14: by end of block, please submit your slides via this [Airtable link]() (not yet available).  
+* project block 14: by end of block, please submit your slides via this [Airtable link](https://airtable.com/shr9Ge6A94JB7TOPI).  
 
 **Project block 14** — Prepare project presentation (see more detailed guidance in the [Student Guide to Projects](./docs/project_guidance.md))
- * Groups make a five minute project presentation: approx 1 minute / 1 slide / 1 person
+ * Groups make an approx five minute project presentation: 1 minute / 1 slide / 1 person
  * All group members should give a part of the presentation!
  * RESULTS ARE OPTIONAL! We would like you to present your experience, and results if you happen to have them
  * [Example project video one](https://youtu.be/zMphz4yvyfc) (*notice how quickly our mascot black cat jumps continents!*)
@@ -81,6 +81,6 @@ Below we link all the relevant project materials.These are available either on g
  * Use this presentation style ([google slides](https://docs.google.com/presentation/d/1A1uaYarVot9YyCdbAAB4VDvsQfK6emqq-TwIZ9xVNwo/edit?usp=sharing) or [powerpoint](https://osf.io/ky6fj/download)) or create your own style!
 
 **NMA final day** — Presentation of projects
-  * This happens during hours 6:10-7:10 relative to start of tutorials on the last day.
+  * This happens either in the last hour of project time (timeslots 2,4) or during 6:10-7:10 relative to start of tutorials on the last day (timeslots 1,3,5). If it's not clear, check the [calendar](https://academy.neuromatch.io/calendar-summer-2021).
   * For each group, we will send an email invitation to the following people: TA, project TA, mentor and primary student contact.
-  * More about logistics in the [Student Guide to Projects](./docs/project_guidance.md))
+  * More about scheduling and logistics in the [Student Guide to Projects](./docs/project_guidance.md))
